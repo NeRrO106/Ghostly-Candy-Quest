@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 30dcf0153d0bc754eb115137b1208be1
+  - enabled: 1
+    path: Assets/Scenes/The-Enchanted-Village.unity
+    guid: bf6dd383207ad824282f6249d1f83d4d
   m_configObjects: {}
