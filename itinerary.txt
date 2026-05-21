@@ -1,0 +1,8 @@
+Ghostly Candy Quest is a Third Person Game recently designed for Halloween. The Game is still in "production" but when he will be released will have:
+ -an infinite road with houses(endless running)
+ -random houses will have a lighting pumpking(this will indicate if you can go to that house or not)
+ -you will have some task for each house to get candy
+ -on the road you will see ghost and other spooky things that will damage you if you enter in collision 
+ -you will have a shop where you can buy yourself other costumes using candy or real money
+For this game I use Unity Engine, C# OOP Programming, 3D Modeling using Blender(i design all the houses, pumpking and other things that I need)
+That game will be released for Android and maybe for IOS
